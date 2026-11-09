@@ -1,0 +1,5 @@
+timestamp,item,price,quantity,type,category
+2026-11-09T12:00:00Z,Exemplo de item,1000,2,sale,Materiais
+2026-11-09T12:05:00Z,Exemplo de item,1020,1,sale,Materiais
+2026-11-09T13:00:00Z,Exemplo de item,1030,5,sale,Materiais
+2026-11-09T14:00:00Z,Exemplo de item,1010,1,sale,Materiais
